@@ -8,7 +8,7 @@ class Student {
 
 	//TODO constructor
 
-	public Student(String index, String firstName, String lastName, List<Integer> labPoints) {
+public Student(String index, String firstName, String lastName, List<Integer> labPoints) {
 		this.index = index;
 		this.firstName = firstName;
 		this.lastName = lastName;
